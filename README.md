@@ -28,7 +28,6 @@ I also document and publish my hardware work publicly as **Samiul Makes**, build
 ## Research
 
 - Comparative Analysis of Sensor Fusion Techniques for Odometry Estimation in a Four-Wheeled Holonomic Drive Robot Using Wheel Encoders and IMU (BSc thesis, 2026)
-- [Open Omnibot](https://github.com/samiul-hoque/open-omnibot) platform / calibration contribution (IECON 2026) <!-- TODO: confirm title + link when published -->
 
 ## Find me
 
