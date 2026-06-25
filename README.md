@@ -20,7 +20,7 @@ I also document and publish my hardware work publicly as **Samiul Makes**, build
 
 ## Selected projects
 
-- **[Open Omnibot](https://github.com/samiul-hoque/open-omnibot)** — open-source four-wheeled holonomic drive robot with per-wheel self-calibration. Platform behind my BSc thesis and an IECON 2026 paper.
+- **[Open Omnibot](https://github.com/samiul-hoque/open-omnibot)** — open-source four-wheeled holonomic drive robot with per-wheel self-calibration. Platform behind my BSc thesis, with a related publication pending.
 - **[CAN-BUS-HAT_lumo](https://github.com/samiul-hoque/CAN-BUS-HAT_lumo)** — CAN bus HAT hardware for automotive / connected-vehicle work.
 - **[HAB-BlackHorse](https://github.com/samiul-hoque/HAB-BlackHorse)** — high-altitude balloon project that reached 32.45 km.
 - **[ESP32-Audiopad](https://github.com/samiul-hoque/ESP32-Audiopad)** — ESP32-based audio device.
