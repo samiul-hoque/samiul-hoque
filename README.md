@@ -36,3 +36,5 @@ I also document and publish my hardware work publicly as **Samiul Makes**, build
 - Portfolio: https://samiulmakes.com
 - LinkedIn: https://www.linkedin.com/in/s026hoque/
 - Samiul Makes: YouTube / Instagram / X / TikTok @samiulmakes
+
+<!-- profile readme -->
