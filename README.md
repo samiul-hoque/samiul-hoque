@@ -6,7 +6,7 @@ My current focus is low-cost, open-source robotics: mobile manipulation and lear
 
 - Founding Engineer at Ghorar Dim Studios
 - Fab Academy 2019 graduate
-- Two IEEE conference publications, four competitive grants
+- Three IEEE conference publications, four competitive grants
 
 I also document and publish my hardware work publicly as **Samiul Makes**, building reproducible robotics projects anyone can learn from.
 
